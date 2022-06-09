@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Focus App Support
 
-You can use the [editor on GitHub](https://github.com/nikitap1298/nikitap1298.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Focus App
+Focus is an application that is designed to help you concentrate on a specific task for a certain amount of time. 
+You can set a specific time that cannot be changed after press start button. If the timer is stopped or the app is closed, the task will fail.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features 
+- Haptic Feedback 
+- Long Press for plus and minus buttons
+- Light or System appearance  
 
-### Markdown
+## About
+- Developer: Nikita Pishchugin
+- Illustrations: [icons8](https://icons8.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Support or Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikitap1298/nikitap1298.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Focus? Contact support: nikpishchugin@gmail.com and we’ll help you sort it out.
