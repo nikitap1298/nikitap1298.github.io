@@ -10,6 +10,9 @@ Currently only for testing
 ## About
 - Developer: Nikita Pishchugin
 
+## Privacy Policy
+<a href="wewishprivacypolicy.md">Privacy Policy</a>
+
 ## Support or Contact
 Having trouble with WeWish? Contact support: wishlist@hellowewish.com and we’ll help you sort it out.
 
