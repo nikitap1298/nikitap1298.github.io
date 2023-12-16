@@ -11,7 +11,7 @@ Currently only for testing
 - Developer: Nikita Pishchugin
 
 ## Support or Contact
-Having trouble with WeWish? Contact support: nikpishchugin@gmail.com and we’ll help you sort it out.
+Having trouble with WeWish? Contact support: wishlist@hellowewish.com and we’ll help you sort it out.
 
 ## 2. Sunny: Weather Forecast
 Sunny is an app which shows current, next 24 hours and next 7 days weather forecast in places around the world. By tapping on a specific hour or day you’ll see a detailed forecast. Also you can find a graph inside specific day screen and change the parameters which you would like to be shown. On the search screen you can add up to 5 places (not including current location). On the setting screen switch between measurement systems the way you want to.
